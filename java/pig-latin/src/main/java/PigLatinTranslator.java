@@ -19,6 +19,7 @@ public class PigLatinTranslator {
     }
 
     private String pigify(String word) {
+        System.out.println("starting pigify");
         Boolean plusAy = this.plusAy.stream().anyMatch(v -> word.startsWith(v));
         Optional<String> move = this.movePlusAy.stream().filter(v -> word.startsWith(v)).findFirst();
         Optional<String> moveTemplate = moveTemplatePlusAy.stream().filter(v -> word.matches("^[^aeiou]\\w+") && word.indexOf(v) == 1).findFirst();
