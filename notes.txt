@@ -1,0 +1,7 @@
+https://exercism.io/my/tracks/java
+
+gsimpson / L----------1111
+
+
+make a gradle build config with target test
+add --info test as the argument to see println output
