@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DartsTest" tests="13" skipped="3" failures="0" errors="0" timestamp="2020-02-20T21:58:56" hostname="US-eloy98104" time="0.036">
+  <properties/>
+  <testcase name="exactlyOnCentre" classname="DartsTest" time="0.006"/>
+  <testcase name="onTheInnerCircle" classname="DartsTest" time="0.001"/>
+  <testcase name="justWithinTheInnerCircle" classname="DartsTest" time="0.001"/>
+  <testcase name="justWithinTheMiddleCirlce" classname="DartsTest" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase name="asymmetricPositionBetweenTheInnerAndMiddleCircles" classname="DartsTest" time="0.002"/>
+  <testcase name="nearTheCentre" classname="DartsTest" time="0.0"/>
+  <testcase name="missedTarget" classname="DartsTest" time="0.002"/>
+  <testcase name="justOutsideTheOuterCircle" classname="DartsTest" time="0.001"/>
+  <testcase name="justOutsideTheMiddleCircle" classname="DartsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="onTheMiddleCircle" classname="DartsTest" time="0.0"/>
+  <testcase name="onTheOuterCircle" classname="DartsTest" time="0.0"/>
+  <testcase name="justWithinTheOuterCirlce" classname="DartsTest" time="0.0"/>
+  <testcase name="justOutsideTheInnerCircle" classname="DartsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
